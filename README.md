@@ -22,6 +22,16 @@ LearnPayWrite/
     ├── 07_Identifier_part2.js
     ├── 08_comments.js
     └── vs_keyboard_shortcuts.md
+└── chapter_04_Javascript_concepts/    # Variables, scope & hoisting
+    ├── 09_var_let_const.js
+    ├── 10_functions.js
+    ├── 11_var_explained.js
+    ├── 12_let_people_love.js
+    ├── 13_const_explained.js
+    ├── 14_var_functionscope.js
+    ├── 15_let_scope.js
+    ├── 16_Hoisting.js
+    └── 17_hoisting_functions.js
 ```
 
 ## Chapters Overview
@@ -31,6 +41,7 @@ LearnPayWrite/
 | **Chapter 01** | Basics & Setup | `01_Basics.js`, `02_JS.js`, `03_JS_Verify_SetUp.js` |
 | **Chapter 02** | JavaScript Concepts | `04_JS_Basaics.js` |
 | **Chapter 03** | Identifiers, Literals & Comments | `05_IdentifierRules.js`, `06_JS_IdentifierRules.js`, `07_Identifier_part2.js`, `08_comments.js` |
+| **Chapter 04** | Variables, Scope & Hoisting | `09_var_let_const.js`, `10_functions.js`, `11_var_explained.js`, `12_let_people_love.js`, `13_const_explained.js`, `14_var_functionscope.js`, `15_let_scope.js`, `16_Hoisting.js`, `17_hoisting_functions.js` |
 
 ## VS Code Keyboard Shortcuts
 
@@ -58,6 +69,7 @@ A curated list of the most commonly used Visual Studio Code keyboard shortcuts f
 4. Run any `.js` file using Node.js:
    ```bash
    node chapter_01_basics/01_Basics.js
+   node chapter_04_Javascript_concepts/09_var_let_const.js
    ```
 
 ## Prerequisites
